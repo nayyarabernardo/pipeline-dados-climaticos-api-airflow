@@ -1,0 +1,252 @@
+[2022-11-01 22:40:42,575] {processor.py:153} INFO - Started process (PID=17788) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:40:42,576] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:40:42,577] {logging_mixin.py:115} INFO - [2022-11-01 22:40:42,577] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:40:42,587] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:40:42,623] {logging_mixin.py:115} INFO - [2022-11-01 22:40:42,623] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:40:42,650] {logging_mixin.py:115} INFO - [2022-11-01 22:40:42,650] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:40:42.650097+00:00, run_after=2022-11-02T01:40:42.650097+00:00
+[2022-11-01 22:40:43,181] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.613 seconds
+[2022-11-01 22:43:11,168] {processor.py:153} INFO - Started process (PID=17992) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:43:11,214] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:43:11,215] {logging_mixin.py:115} INFO - [2022-11-01 22:43:11,214] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:43:11,227] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:43:11,277] {logging_mixin.py:115} INFO - [2022-11-01 22:43:11,277] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:43:11,320] {logging_mixin.py:115} INFO - [2022-11-01 22:43:11,320] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:43:11.319471+00:00, run_after=2022-11-02T01:43:11.319471+00:00
+[2022-11-01 22:43:12,005] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.842 seconds
+[2022-11-01 22:44:40,874] {processor.py:153} INFO - Started process (PID=18139) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:44:40,892] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:44:40,894] {logging_mixin.py:115} INFO - [2022-11-01 22:44:40,894] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:44:40,934] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:44:40,997] {logging_mixin.py:115} INFO - [2022-11-01 22:44:40,996] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:44:41,035] {logging_mixin.py:115} INFO - [2022-11-01 22:44:41,035] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:44:41.035212+00:00, run_after=2022-11-02T01:44:41.035212+00:00
+[2022-11-01 22:44:41,327] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.466 seconds
+[2022-11-01 22:45:44,968] {processor.py:153} INFO - Started process (PID=18246) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:45:44,991] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:45:44,992] {logging_mixin.py:115} INFO - [2022-11-01 22:45:44,992] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:45:45,005] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:45:45,060] {logging_mixin.py:115} INFO - [2022-11-01 22:45:45,059] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:45:45,097] {logging_mixin.py:115} INFO - [2022-11-01 22:45:45,097] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:45:45.096732+00:00, run_after=2022-11-02T01:45:45.096732+00:00
+[2022-11-01 22:45:45,416] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.455 seconds
+[2022-11-01 22:46:46,690] {processor.py:153} INFO - Started process (PID=18380) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:46:46,716] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:46:46,717] {logging_mixin.py:115} INFO - [2022-11-01 22:46:46,717] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:46:46,728] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:46:46,777] {logging_mixin.py:115} INFO - [2022-11-01 22:46:46,777] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:46:46,811] {logging_mixin.py:115} INFO - [2022-11-01 22:46:46,810] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:46:46.810439+00:00, run_after=2022-11-02T01:46:46.810439+00:00
+[2022-11-01 22:46:47,148] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.465 seconds
+[2022-11-01 22:47:48,591] {processor.py:153} INFO - Started process (PID=18520) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:47:48,608] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:47:48,620] {logging_mixin.py:115} INFO - [2022-11-01 22:47:48,620] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:47:48,636] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:47:48,681] {logging_mixin.py:115} INFO - [2022-11-01 22:47:48,681] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:47:48,713] {logging_mixin.py:115} INFO - [2022-11-01 22:47:48,713] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:47:48.712579+00:00, run_after=2022-11-02T01:47:48.712579+00:00
+[2022-11-01 22:47:49,256] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.671 seconds
+[2022-11-01 22:48:46,473] {processor.py:153} INFO - Started process (PID=18631) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:48:46,474] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:48:46,476] {logging_mixin.py:115} INFO - [2022-11-01 22:48:46,476] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:48:46,490] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:48:46,536] {logging_mixin.py:115} INFO - [2022-11-01 22:48:46,536] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:48:46,572] {logging_mixin.py:115} INFO - [2022-11-01 22:48:46,571] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:48:46.569844+00:00, run_after=2022-11-02T01:48:46.569844+00:00
+[2022-11-01 22:48:46,928] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.461 seconds
+[2022-11-01 22:49:42,497] {processor.py:153} INFO - Started process (PID=18744) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:49:42,513] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:49:42,515] {logging_mixin.py:115} INFO - [2022-11-01 22:49:42,514] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:49:42,530] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:49:42,712] {logging_mixin.py:115} INFO - [2022-11-01 22:49:42,712] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:49:42,755] {logging_mixin.py:115} INFO - [2022-11-01 22:49:42,755] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:49:42.754842+00:00, run_after=2022-11-02T01:49:42.754842+00:00
+[2022-11-01 22:49:43,365] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.874 seconds
+[2022-11-01 22:50:38,216] {processor.py:153} INFO - Started process (PID=18842) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:50:38,219] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:50:38,221] {logging_mixin.py:115} INFO - [2022-11-01 22:50:38,220] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:50:38,235] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:50:38,272] {logging_mixin.py:115} INFO - [2022-11-01 22:50:38,272] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:50:38,309] {logging_mixin.py:115} INFO - [2022-11-01 22:50:38,309] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:50:38.308864+00:00, run_after=2022-11-02T01:50:38.308864+00:00
+[2022-11-01 22:50:38,592] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.381 seconds
+[2022-11-01 22:51:51,911] {processor.py:153} INFO - Started process (PID=19023) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:51:51,940] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:51:51,941] {logging_mixin.py:115} INFO - [2022-11-01 22:51:51,941] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:51:51,954] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:51:51,991] {logging_mixin.py:115} INFO - [2022-11-01 22:51:51,991] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:51:52,021] {logging_mixin.py:115} INFO - [2022-11-01 22:51:52,021] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:51:52.020811+00:00, run_after=2022-11-02T01:51:52.020811+00:00
+[2022-11-01 22:51:52,909] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 1.008 seconds
+[2022-11-01 22:53:14,225] {processor.py:153} INFO - Started process (PID=19171) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:53:14,255] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:53:14,257] {logging_mixin.py:115} INFO - [2022-11-01 22:53:14,256] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:53:14,267] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:53:14,304] {logging_mixin.py:115} INFO - [2022-11-01 22:53:14,304] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:53:14,339] {logging_mixin.py:115} INFO - [2022-11-01 22:53:14,338] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:53:14.336807+00:00, run_after=2022-11-02T01:53:14.336807+00:00
+[2022-11-01 22:53:14,674] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.454 seconds
+[2022-11-01 22:54:12,765] {processor.py:153} INFO - Started process (PID=19287) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:54:12,767] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:54:12,768] {logging_mixin.py:115} INFO - [2022-11-01 22:54:12,767] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:54:12,776] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:54:12,808] {logging_mixin.py:115} INFO - [2022-11-01 22:54:12,808] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:54:12,830] {logging_mixin.py:115} INFO - [2022-11-01 22:54:12,829] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:54:12.829511+00:00, run_after=2022-11-02T01:54:12.829511+00:00
+[2022-11-01 22:54:13,148] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.386 seconds
+[2022-11-01 22:55:27,916] {processor.py:153} INFO - Started process (PID=19470) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:55:27,964] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:55:27,965] {logging_mixin.py:115} INFO - [2022-11-01 22:55:27,965] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:55:27,975] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:55:28,004] {logging_mixin.py:115} INFO - [2022-11-01 22:55:28,004] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:55:28,021] {logging_mixin.py:115} INFO - [2022-11-01 22:55:28,021] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:55:28.021319+00:00, run_after=2022-11-02T01:55:28.021319+00:00
+[2022-11-01 22:55:28,572] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.660 seconds
+[2022-11-01 22:56:36,966] {processor.py:153} INFO - Started process (PID=19614) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:56:37,068] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:56:37,071] {logging_mixin.py:115} INFO - [2022-11-01 22:56:37,070] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:56:37,096] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:56:37,130] {logging_mixin.py:115} INFO - [2022-11-01 22:56:37,129] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:56:37,150] {logging_mixin.py:115} INFO - [2022-11-01 22:56:37,150] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:56:37.149955+00:00, run_after=2022-11-02T01:56:37.149955+00:00
+[2022-11-01 22:56:37,673] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.724 seconds
+[2022-11-01 22:58:02,126] {processor.py:153} INFO - Started process (PID=19836) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:58:02,138] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:58:02,142] {logging_mixin.py:115} INFO - [2022-11-01 22:58:02,141] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:58:02,173] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:58:02,203] {logging_mixin.py:115} INFO - [2022-11-01 22:58:02,203] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:58:02,222] {logging_mixin.py:115} INFO - [2022-11-01 22:58:02,222] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:58:02.221657+00:00, run_after=2022-11-02T01:58:02.221657+00:00
+[2022-11-01 22:58:02,510] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.401 seconds
+[2022-11-01 22:58:57,972] {processor.py:153} INFO - Started process (PID=19940) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:58:58,000] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:58:58,002] {logging_mixin.py:115} INFO - [2022-11-01 22:58:58,002] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:58:58,018] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:58:58,048] {logging_mixin.py:115} INFO - [2022-11-01 22:58:58,048] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:58:58,067] {logging_mixin.py:115} INFO - [2022-11-01 22:58:58,067] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:58:58.067021+00:00, run_after=2022-11-02T01:58:58.067021+00:00
+[2022-11-01 22:58:58,428] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.467 seconds
+[2022-11-01 22:59:46,256] {processor.py:153} INFO - Started process (PID=20060) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:59:46,378] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 22:59:46,381] {logging_mixin.py:115} INFO - [2022-11-01 22:59:46,380] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:59:46,402] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 22:59:46,426] {logging_mixin.py:115} INFO - [2022-11-01 22:59:46,426] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 22:59:46,444] {logging_mixin.py:115} INFO - [2022-11-01 22:59:46,444] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T01:59:46.444199+00:00, run_after=2022-11-02T01:59:46.444199+00:00
+[2022-11-01 22:59:46,920] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.670 seconds
+[2022-11-01 23:00:41,143] {processor.py:153} INFO - Started process (PID=20158) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:00:41,156] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:00:41,157] {logging_mixin.py:115} INFO - [2022-11-01 23:00:41,157] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:00:41,165] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:00:41,189] {logging_mixin.py:115} INFO - [2022-11-01 23:00:41,188] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:00:41,209] {logging_mixin.py:115} INFO - [2022-11-01 23:00:41,209] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:00:41.208974+00:00, run_after=2022-11-02T02:00:41.208974+00:00
+[2022-11-01 23:00:41,496] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.360 seconds
+[2022-11-01 23:01:32,771] {processor.py:153} INFO - Started process (PID=20256) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:01:32,775] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:01:32,777] {logging_mixin.py:115} INFO - [2022-11-01 23:01:32,777] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:01:32,803] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:01:32,861] {logging_mixin.py:115} INFO - [2022-11-01 23:01:32,861] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:01:32,879] {logging_mixin.py:115} INFO - [2022-11-01 23:01:32,879] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:01:32.878861+00:00, run_after=2022-11-02T02:01:32.878861+00:00
+[2022-11-01 23:01:33,347] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.587 seconds
+[2022-11-01 23:02:43,791] {processor.py:153} INFO - Started process (PID=20440) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:02:43,915] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:02:43,921] {logging_mixin.py:115} INFO - [2022-11-01 23:02:43,920] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:02:43,961] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:02:44,023] {logging_mixin.py:115} INFO - [2022-11-01 23:02:44,023] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:02:44,048] {logging_mixin.py:115} INFO - [2022-11-01 23:02:44,048] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:02:44.047735+00:00, run_after=2022-11-02T02:02:44.047735+00:00
+[2022-11-01 23:02:45,515] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 1.730 seconds
+[2022-11-01 23:04:27,017] {processor.py:153} INFO - Started process (PID=20650) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:04:27,039] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:04:27,041] {logging_mixin.py:115} INFO - [2022-11-01 23:04:27,040] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:04:27,050] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:04:27,078] {logging_mixin.py:115} INFO - [2022-11-01 23:04:27,078] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:04:27,103] {logging_mixin.py:115} INFO - [2022-11-01 23:04:27,103] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:04:27.102634+00:00, run_after=2022-11-02T02:04:27.102634+00:00
+[2022-11-01 23:04:27,371] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.364 seconds
+[2022-11-01 23:05:22,136] {processor.py:153} INFO - Started process (PID=20756) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:05:22,137] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:05:22,139] {logging_mixin.py:115} INFO - [2022-11-01 23:05:22,139] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:05:22,148] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:05:22,172] {logging_mixin.py:115} INFO - [2022-11-01 23:05:22,172] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:05:22,194] {logging_mixin.py:115} INFO - [2022-11-01 23:05:22,194] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:05:22.194307+00:00, run_after=2022-11-02T02:05:22.194307+00:00
+[2022-11-01 23:05:22,593] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.461 seconds
+[2022-11-01 23:06:15,650] {processor.py:153} INFO - Started process (PID=20869) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:06:15,665] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:06:15,667] {logging_mixin.py:115} INFO - [2022-11-01 23:06:15,666] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:06:15,679] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:06:15,701] {logging_mixin.py:115} INFO - [2022-11-01 23:06:15,701] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:06:15,723] {logging_mixin.py:115} INFO - [2022-11-01 23:06:15,722] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:06:15.722607+00:00, run_after=2022-11-02T02:06:15.722607+00:00
+[2022-11-01 23:06:16,001] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.362 seconds
+[2022-11-01 23:07:14,545] {processor.py:153} INFO - Started process (PID=21039) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:07:14,557] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:07:14,558] {logging_mixin.py:115} INFO - [2022-11-01 23:07:14,558] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:07:14,566] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:07:14,590] {logging_mixin.py:115} INFO - [2022-11-01 23:07:14,590] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:07:14,610] {logging_mixin.py:115} INFO - [2022-11-01 23:07:14,610] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:07:14.610224+00:00, run_after=2022-11-02T02:07:14.610224+00:00
+[2022-11-01 23:07:14,878] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.337 seconds
+[2022-11-01 23:08:05,307] {processor.py:153} INFO - Started process (PID=21134) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:08:05,326] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:08:05,327] {logging_mixin.py:115} INFO - [2022-11-01 23:08:05,327] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:08:05,334] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:08:05,354] {logging_mixin.py:115} INFO - [2022-11-01 23:08:05,354] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:08:05,371] {logging_mixin.py:115} INFO - [2022-11-01 23:08:05,371] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:08:05.371385+00:00, run_after=2022-11-02T02:08:05.371385+00:00
+[2022-11-01 23:08:05,691] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.391 seconds
+[2022-11-01 23:09:09,365] {processor.py:153} INFO - Started process (PID=21291) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:09:09,380] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:09:09,381] {logging_mixin.py:115} INFO - [2022-11-01 23:09:09,381] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:09:09,390] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:09:09,415] {logging_mixin.py:115} INFO - [2022-11-01 23:09:09,414] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:09:09,435] {logging_mixin.py:115} INFO - [2022-11-01 23:09:09,435] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:09:09.435184+00:00, run_after=2022-11-02T02:09:09.435184+00:00
+[2022-11-01 23:09:09,653] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.293 seconds
+[2022-11-01 23:10:05,227] {processor.py:153} INFO - Started process (PID=21447) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:10:05,375] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:10:05,378] {logging_mixin.py:115} INFO - [2022-11-01 23:10:05,377] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:10:05,407] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:10:05,485] {logging_mixin.py:115} INFO - [2022-11-01 23:10:05,485] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:10:05,512] {logging_mixin.py:115} INFO - [2022-11-01 23:10:05,511] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:10:05.511551+00:00, run_after=2022-11-02T02:10:05.511551+00:00
+[2022-11-01 23:10:06,194] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.971 seconds
+[2022-11-01 23:11:41,807] {processor.py:153} INFO - Started process (PID=21676) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:11:41,827] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:11:41,828] {logging_mixin.py:115} INFO - [2022-11-01 23:11:41,828] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:11:41,847] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:11:41,890] {logging_mixin.py:115} INFO - [2022-11-01 23:11:41,890] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:11:41,916] {logging_mixin.py:115} INFO - [2022-11-01 23:11:41,915] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:11:41.915481+00:00, run_after=2022-11-02T02:11:41.915481+00:00
+[2022-11-01 23:11:42,246] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.444 seconds
+[2022-11-01 23:13:03,422] {processor.py:153} INFO - Started process (PID=21859) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:13:03,433] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:13:03,434] {logging_mixin.py:115} INFO - [2022-11-01 23:13:03,434] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:13:03,442] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:13:03,472] {logging_mixin.py:115} INFO - [2022-11-01 23:13:03,472] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:13:03,493] {logging_mixin.py:115} INFO - [2022-11-01 23:13:03,493] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:13:03.493032+00:00, run_after=2022-11-02T02:13:03.493032+00:00
+[2022-11-01 23:13:03,864] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.450 seconds
+[2022-11-01 23:14:16,031] {processor.py:153} INFO - Started process (PID=22073) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:14:16,045] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:14:16,059] {logging_mixin.py:115} INFO - [2022-11-01 23:14:16,058] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:14:16,066] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:14:16,093] {logging_mixin.py:115} INFO - [2022-11-01 23:14:16,093] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:14:16,124] {logging_mixin.py:115} INFO - [2022-11-01 23:14:16,123] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:14:16.123281+00:00, run_after=2022-11-02T02:14:16.123281+00:00
+[2022-11-01 23:14:16,722] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.697 seconds
+[2022-11-01 23:15:16,596] {processor.py:153} INFO - Started process (PID=22192) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:15:16,597] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:15:16,598] {logging_mixin.py:115} INFO - [2022-11-01 23:15:16,598] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:15:16,605] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:15:16,627] {logging_mixin.py:115} INFO - [2022-11-01 23:15:16,627] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:15:16,647] {logging_mixin.py:115} INFO - [2022-11-01 23:15:16,647] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:15:16.646841+00:00, run_after=2022-11-02T02:15:16.646841+00:00
+[2022-11-01 23:15:16,992] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.400 seconds
+[2022-11-01 23:16:18,497] {processor.py:153} INFO - Started process (PID=22347) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:16:18,580] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:16:18,581] {logging_mixin.py:115} INFO - [2022-11-01 23:16:18,581] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:16:18,592] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:16:18,620] {logging_mixin.py:115} INFO - [2022-11-01 23:16:18,620] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:16:18,646] {logging_mixin.py:115} INFO - [2022-11-01 23:16:18,646] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:16:18.645510+00:00, run_after=2022-11-02T02:16:18.645510+00:00
+[2022-11-01 23:16:18,981] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.512 seconds
+[2022-11-01 23:17:24,932] {processor.py:153} INFO - Started process (PID=22502) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:17:24,933] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:17:24,934] {logging_mixin.py:115} INFO - [2022-11-01 23:17:24,934] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:17:24,942] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:17:24,966] {logging_mixin.py:115} INFO - [2022-11-01 23:17:24,966] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:17:24,990] {logging_mixin.py:115} INFO - [2022-11-01 23:17:24,990] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:17:24.989453+00:00, run_after=2022-11-02T02:17:24.989453+00:00
+[2022-11-01 23:17:25,253] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.326 seconds
+[2022-11-01 23:18:47,868] {processor.py:153} INFO - Started process (PID=22654) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:18:47,889] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:18:47,890] {logging_mixin.py:115} INFO - [2022-11-01 23:18:47,890] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:18:47,897] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:18:47,925] {logging_mixin.py:115} INFO - [2022-11-01 23:18:47,925] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:18:47,949] {logging_mixin.py:115} INFO - [2022-11-01 23:18:47,949] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:18:47.949005+00:00, run_after=2022-11-02T02:18:47.949005+00:00
+[2022-11-01 23:18:48,308] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.447 seconds
+[2022-11-01 23:19:47,052] {processor.py:153} INFO - Started process (PID=22769) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:19:47,053] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:19:47,053] {logging_mixin.py:115} INFO - [2022-11-01 23:19:47,053] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:19:47,061] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:19:47,087] {logging_mixin.py:115} INFO - [2022-11-01 23:19:47,087] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:19:47,112] {logging_mixin.py:115} INFO - [2022-11-01 23:19:47,112] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:19:47.112346+00:00, run_after=2022-11-02T02:19:47.112346+00:00
+[2022-11-01 23:19:47,480] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.432 seconds
+[2022-11-01 23:20:58,783] {processor.py:153} INFO - Started process (PID=22966) to work on /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:20:58,820] {processor.py:641} INFO - Processing file /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-11-01 23:20:58,821] {logging_mixin.py:115} INFO - [2022-11-01 23:20:58,821] {dagbag.py:507} INFO - Filling up the DagBag from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:20:58,832] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-11-01 23:20:58,871] {logging_mixin.py:115} INFO - [2022-11-01 23:20:58,871] {dag.py:2379} INFO - Sync 1 DAGs
+[2022-11-01 23:20:58,909] {logging_mixin.py:115} INFO - [2022-11-01 23:20:58,908] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2022-11-01T02:20:58.908564+00:00, run_after=2022-11-02T02:20:58.908564+00:00
+[2022-11-01 23:20:59,196] {processor.py:161} INFO - Processing /home/nayara/Documentos/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.432 seconds
