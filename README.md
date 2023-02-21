@@ -5,7 +5,6 @@
 
 Este repositório contém um pipeline de dados implementado utilizando o Airflow para coletar informações meteorológicas da API Timeline Weather para a cidade de Boston. O pipeline é executado semanalmente e coleta dados dos últimos sete dias.
 
-**Índice**
 ## Índice
 
 - [Sobre a API Timeline Weather](#sobre-a-api-timeline-weather)
