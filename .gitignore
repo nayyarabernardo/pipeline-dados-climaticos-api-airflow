@@ -1,0 +1,7 @@
+.venv
+
+.logs
+
+*.txt
+*.cfg
+*.db
