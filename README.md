@@ -1,4 +1,4 @@
-# Pipeline de dados com Airflow e a API Timeline Weather 🌧️
+# Pipeline com Airflow e a API Timeline Weather 🌧️
 
 ## Coleta e processamento de informações meteorológicas em Python
 
